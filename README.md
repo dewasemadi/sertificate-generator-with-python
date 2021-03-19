@@ -3,7 +3,7 @@ This repository helps you in giving names to certificate, if you design 1 certif
 Let's start
 
 1. Install python
-   just go to their official website
+just go to their official website
 2. Install python library
    - pip install PI
    - pip install pandas
@@ -12,4 +12,5 @@ Let's start
 3. Modify list.xlsx then add your list name
 4. Modify xlsx_dir and sertificate_dir with your excel and jpg directory
 5. Run the code
-   Enjoy!
+
+Enjoy!
