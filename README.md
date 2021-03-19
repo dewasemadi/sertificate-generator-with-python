@@ -1,5 +1,3 @@
-This repository helps you in giving names to certificate, if you design 1 certificate it might not be a problem, but what if designing thousands of certificates might take a long time to complete the task. Therefore this repository was created.
-
 Let's start
 
 1. Install python
