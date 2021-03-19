@@ -3,7 +3,7 @@ This repository helps you in giving names to certificate, if you design 1 certif
 Let's start
 
 1. Install python
-just go to their official website
+   - just go to their official website
 2. Install python library
    - pip install PI
    - pip install pandas
